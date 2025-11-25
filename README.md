@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meBerkay
 - 👀 I’m interested in action movies, science fiction etc...
-- 🌱 I’m currently learning PHP,C#, Python and DevSecOps Operations.
+- 🌱 I’m currently learning AI processing.
 - 📫 How to reach me  -> berkaycan.iletisim@gmail.com
 
 <!---
